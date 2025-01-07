@@ -2,6 +2,9 @@ h1 {
     color: brown;
     text-shadow: 0px 0px 5px yellow, 0px -5px 0px orange;
 }
+h1:hover {
+    box-shadow: 3px 3px  3px black;
+}
 
 body {
     background-image: url('https://c4.wallpaperflare.com/wallpaper/218/588/868/photo-of-two-red-and-brown-canoe-boats-lagoa-barra-laguna-lagoa-barra-laguna-wallpaper-preview.jpg');
