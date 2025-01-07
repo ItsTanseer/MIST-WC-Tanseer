@@ -18,6 +18,8 @@ body {
 .history {
     color: aquamarine;
     font-size: x-large;
+    border-style: inset;
+    border-width: 5px;
 }
 
 .smiley {height: 80px; width: 80px;
